@@ -22,4 +22,5 @@ public class Category {
     public void setCate_name(String cate_name) {
         this.cate_name = cate_name;
     }
+
 }
