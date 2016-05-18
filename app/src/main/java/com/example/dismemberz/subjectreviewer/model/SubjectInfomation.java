@@ -12,6 +12,15 @@ public class SubjectInfomation {
     private String sub_ins;
     private String fac_id;
     private String fac_name;
+    private String sub_eng_name;
+
+    public String getSub_eng_name() {
+        return sub_eng_name;
+    }
+
+    public void setSub_eng_name(String sub_eng_name) {
+        this.sub_eng_name = sub_eng_name;
+    }
 
     public String getSub_id() {
         return sub_id;
